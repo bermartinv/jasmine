@@ -47,6 +47,9 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
+# RUN PROJECT
+To run project only in app source run index.html
+
 # Links where I've looked for information
 
 1. My javaScript links (https://github.com/bermartinv/linksJavaScript)
@@ -58,3 +61,5 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 3. desarrollo.web Spanish tutorial (https://www.desarrolloweb.com/articulos/conociendo-jasmine.html))
 
 4. stackoverflow asynchronous function with done (https://stackoverflow.com/questions/28408843/test-asynchronous-functionality-in-jasmine-2-0-0-with-done)
+
+5. stackoverflow tobetruthy (https://stackoverflow.com/questions/32615713/tobetrue-vs-tobetruthy-vs-tobetrue)
