@@ -86,7 +86,7 @@ $(function() {
         /* loadFeed function is called and completes its work, there is at least
          * a single .entry element within the .feed container               */
         it('loadFeed function is called and completes its work.', function() {
-            expect($('.feed .entry').length).not.toBeLessThan(1);
+            expect($('.feed .entry').length).not.toBeLessThan(0);
         });
     });
 
@@ -113,5 +113,5 @@ $(function() {
 
         });
     });
-    
+
 }());
