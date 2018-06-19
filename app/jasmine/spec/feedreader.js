@@ -59,7 +59,7 @@ $(function() {
     
         /* The menu element is hidden by default.         */
         it('is hidden by default', function (){
-            expect($('body').hasClass('menu-hidden')).toBeTruthy();
+            expect($('body').hasClass('menu-hidden')).toBe(true);
         });
 
 
